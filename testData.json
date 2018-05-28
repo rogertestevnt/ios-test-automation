@@ -1,0 +1,99 @@
+{
+    "data": [
+             {
+             "type": "complete",
+             "documentType": "INDIVIDUAL",
+             "document": "51702367436",
+             "password": "Password@10",
+             "country": "BR",
+             "name": "James Marsh",
+             "companyData": {
+             "contactName": "",
+             "contactPhone": "",
+             "contactEmail": ""
+             },
+             "address": {
+             "state": "São Paulo",
+             "city": "Cubatão",
+             "district": "Polo II de Alta Tecnologia",
+             "address": "Estrada Giuseppina Sposito",
+             "number": "1185",
+             "complement": "Gleba 5",
+             "zip": "11086530"
+             },
+             "email": "email@gmail.com",
+             "gender": "MALE",
+             "photo": "mas1",
+             "phone": "0000000001",
+             "secondaryEmail": "james.marsh@vnt.org.br",
+             "secondaryPhone": "100000001",
+             "equipments": [
+                            {
+                            "type": "Eqp001",
+                            "purchaseDate": "2016-06-18",
+                            "serialNumber": "AAA000004"
+                            }
+                            ],
+             "transactions": [
+                              {
+                              "type": "ADD",
+                              "series": "A",
+                              "product": "yellow",
+                              "equipmentSerialNumber": "SXZE000004",
+                              "serialNumber": "AAA000004"
+                              }
+                              ]
+             },
+             {
+             "type": "complete",
+             "documentType": "COMPANY",
+             "document": "96499728000189",
+             "password": "Password@10",
+             "country": "BR",
+             "stateRegistry": "817941282207",
+             "cityRegistry": "000079",
+             "name": "Barber shop",
+             "companyData": {
+             "contactName": "John Mayer",
+             "contactPhone": "00008000",
+             "contactEmail": "john.mayer@email.com"
+             },
+             "address": {
+             "state": "Acre",
+             "city": "Rio Branco",
+             "district": "Cidade Nova",
+             "address": "Estrada do Seringal",
+             "number": "1185",
+             "complement": "Gleba 4",
+             "zip": "10086530"
+             },
+             "email": "email2@gmail.com",
+             "gender": "MALE",
+             "photo": "mas0",
+             "phone": "00078000",
+             "secondaryEmail": "james.marsh@vnt.org.br",
+             "secondaryPhone": "00000222",
+             "equipments": [
+                            {
+                            "type": "Eqp 2 PS",
+                            "purchaseDate": "2016-06-18",
+                            "serialNumber": "X000002"
+                            },
+                            {
+                            "type": " Eq3PE",
+                            "purchaseDate": "2018-02-06",
+                            "serialNumber": "X000003"
+                            }
+                            ],
+             "transactions": [
+                {
+                    "type": "ADD",
+                    "series": "A",
+                    "product": "yellow",
+                    "equipmentSerialNumber": "SXZE000005",
+                    "serialNumber": "AAA000005"
+                    }
+                              ]
+             }
+             ]
+}
